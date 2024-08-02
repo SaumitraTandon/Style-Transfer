@@ -67,10 +67,6 @@ We welcome contributions! Here's how you can help:
     ```
 5. Submit a Pull Request on GitHub.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
 Thank you for exploring the Style Transfer project! If you have any questions or suggestions, feel free to open an issue or reach out directly.
